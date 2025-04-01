@@ -44,7 +44,7 @@ This project explores the IMDB dataset to analyze trends in the film industry, r
 ✔️ Trends in movie ratings over time 🕰️
 
 ### 📂 Dataset
-- Source: [Specify Source]
+- Source: Kaggle
 - Columns: Movie Title, Year, Genre, IMDB Rating, Budget, Revenue, Director
 
 ### 📸 Visualizations
